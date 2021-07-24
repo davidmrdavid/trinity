@@ -1,0 +1,11 @@
+{
+  "name": "microbenchmarks_no_warmup",
+  "tasks": ["scalarAddition", "scalarMultiplication", "leftMatrixMultiplication", "rightMatrixMultiplication", "rowWiseSum", "columnWiseSum", "elementWiseSum"],
+  "TRs": [10],
+  "FRs": [5],
+  "nR": 1000000,
+  "dS": 20,
+  "totalWarmupIters": 2,
+  "dX_lmm": 2,
+  "nX_rmm": 2
+}

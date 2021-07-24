@@ -1,0 +1,8 @@
+{
+  "outputMeta": "complete_synth_1",
+  "name": "synthesized",
+  "TRs": [1, 2, 3, 4, 5],
+  "FRs": [1, 2, 3, 4, 5],
+  "nR": 20,
+  "dS": 10
+}

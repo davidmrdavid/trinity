@@ -1,0 +1,8 @@
+{
+  "outputMeta": "synthesized_logRegJS",
+  "name": "synthesized",
+  "TRs": [5],
+  "FRs": [1,2,3,4,5],
+  "nR": 100000,
+  "dS": 20
+}

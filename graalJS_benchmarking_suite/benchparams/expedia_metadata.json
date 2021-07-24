@@ -1,0 +1,11 @@
+{
+  "outputMeta": "Expedia",
+  "name": "Expedia",
+  "SDir": "./datasets/Expedia/MLSSparse.txt",
+  "FK1dir": "./datasets/Expedia/MLFK1.csv",
+  "FK2dir": "./datasets/Expedia/MLFK2.csv",
+  "R1S": "./datasets/Expedia/MLR1Sparse.txt",
+  "R2S": "./datasets/Expedia/MLR2Sparse.txt",
+  "Ydir": "./datasets/Expedia/MLY.csv",
+  "binarizeTarget": 0
+}

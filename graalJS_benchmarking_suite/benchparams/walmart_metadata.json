@@ -1,0 +1,11 @@
+{
+  "outputMeta": "Walmart",
+  "name": "Walmart",
+  "SDir": "./datasets/Walmart/MLSraw.txt",
+  "FK1dir": "./datasets/Walmart/MLFK1.csv",
+  "FK2dir": "./datasets/Walmart/MLFK2.csv",
+  "R1S": "./datasets/Walmart/MLR1Sparse.txt",
+  "R2S": "./datasets/Walmart/MLR2Sparse.txt",
+  "Ydir": "./datasets/Walmart/MLY.csv",
+  "binarizeTarget": 0 
+}

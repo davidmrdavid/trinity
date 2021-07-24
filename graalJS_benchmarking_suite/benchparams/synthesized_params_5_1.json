@@ -1,0 +1,7 @@
+{
+  "name": "synthesized",
+  "TRs": [5],
+  "FRs": [1],
+  "nR": 1000000,
+  "dS": 20
+}

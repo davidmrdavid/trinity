@@ -1,0 +1,8 @@
+{
+  "outputMeta": "synthesized_1_all",
+  "name": "synthesized",
+  "TRs": [1],
+  "FRs": [1, 3, 5],
+  "nR": 1000000,
+  "dS": 20
+}

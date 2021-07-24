@@ -1,0 +1,11 @@
+{
+  "name": "interp_logReg",
+  "tasks": ["logisticRegression"],
+  "TRs": [1, 5, 10],
+  "FRs": [1, 3, 5],
+  "nR": 1000000,
+  "dS": 20,
+  "totalWarmupIters": 2,
+  "dX_lmm": 2,
+  "nX_rmm": 2
+}

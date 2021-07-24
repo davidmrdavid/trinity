@@ -1,0 +1,11 @@
+{
+  "outputMeta": "Yelp",
+  "name": "Yelp",
+  "SDir": "",
+  "FK1dir": "./datasets/Yelp/MLFK1.csv",
+  "FK2dir": "./datasets/Yelp/MLFK2.csv",
+  "R1S": "./datasets/Yelp/MLR1Sparse.txt",
+  "R2S": "./datasets/Yelp/MLR2Sparse.txt",
+  "Ydir": "./datasets/Yelp/MLY.csv",
+  "binarizeTarget": 1
+}

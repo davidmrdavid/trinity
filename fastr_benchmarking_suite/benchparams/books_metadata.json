@@ -1,0 +1,12 @@
+{
+  "outputMeta": "Books",
+  "datasetDir": "BookCrossing",
+  "name": "Books",
+  "SDir": "",
+  "FK1dir": "./datasets/BookCrossing/MLFK1.csv",
+  "FK2dir": "./datasets/BookCrossing/MLFK2.csv",
+  "R1S": "./datasets/BookCrossing/MLR1Sparse.txt",
+  "R2S": "./datasets/BookCrossing/MLR2Sparse.txt",
+  "Ydir": "./datasets/BookCrossing/MLY.csv",
+  "binarizeTarget": 0 
+}
